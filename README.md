@@ -1,9 +1,9 @@
-### Hi there 👋
-
-<!--
-**JaumDarkz/JaumDarkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Olá sou João Vinícius, Desenvolvedor Full Stack 👋
+<div align="center">
+  <a href="https://github.com/JaumDarkz">                <!--Outro tema interessante : midnight-purple-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaumDarkz&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaumDarkz&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
