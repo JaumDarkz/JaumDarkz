@@ -1,8 +1,8 @@
 ## Olá sou João Vinícius, Desenvolvedor Full Stack 👋
 <div align="center">
-  <a href="https://github.com/JaumDarkz">                <!--Outro tema interessante : midnight-purple-->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JaumDarkz&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaumDarkz&layout=compact&langs_count=7&theme=swift"/>
+  <a href="https://github.com/JaumDarkz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaumdarkz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaumdarkz&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"<br>
   <img align="center" alt="Jaum-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -11,7 +11,7 @@
   <img align="center" alt="Jaum-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="Jaum-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="Jaum-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-  <img align="right" alt="Alienus-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/926952546705215498/935251817267331145/Logo_branca_png.png">
+  <img align="right" alt="Alienus-pic" height="110" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/926952546705215498/935251817267331145/Logo_branca_png.png">
 </div>
 
 ##
