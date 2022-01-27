@@ -1,4 +1,4 @@
-## Olá sou João Vinícius, Desenvolvedor Full Stack 👋
+## Olá sou João Vinícius, Desenvolvedor Full Stack
 
 <div align="center">
   <a href="https://github.com/jaumdarkz">
