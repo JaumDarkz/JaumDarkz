@@ -12,6 +12,7 @@
   <img align="center" alt="Jaum-Next.JS" height="30" width="40" src="https://devicons.railway.app/i/nextjs-light.svg" />
   <img align="center" alt="Jaum-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Jaum-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img align="center" alt="Jaum-Node.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Jaum-Solidity" height="30" width="40" style="background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
   <img align="right" alt="Alienus-pic" height="110" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/926952546705215498/935251817267331145/Logo_branca_png.png">
 </div>
