@@ -1,5 +1,3 @@
-## Hello there, i'm João Vinícius, Full Stack Developer 👋
-
 <div align="center">
   <a href="https://github.com/jaumdarkz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaumdarkz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
