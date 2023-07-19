@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://github.com/jaumdarkz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaumdarkz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaumdarkz&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div> <br />
 <div style="display: inline_block"<br>
   <img align="center" alt="Jaum-Js" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Jaum-React" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -28,5 +23,4 @@
   <a href="https://www.linkedin.com/in/jaumdark/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/JaumDarkz/JaumDarkz/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
