@@ -5,17 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaumdarkz" alt="jaumdarkz" /></a> </p>
 
-- 🔭 I’m currently working on [Oceano and Moonrise](https://plataformaoceano.com.br/)
+- 🔭 I’m currently working on [Oceano](https://plataformaoceano.com.br/) & Leading on [Moonrise & Data Foundry]
 
-- 🌱 I’m currently learning **AI, and always improving my full-stack skills.**
+- 👯 I’m looking to collaborate on [World Education](https://www.youtube.com/@joaoviniciuscode)
 
-- 👯 I’m looking to collaborate on [World Education](https://moonrise-site.vercel.app/)
-
-- 🤝 I’m looking for help with [Moonrise](https://moonrise-site.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/jaumdarkz](https://github.com/jaumdarkz)
-
-- 💬 Ask me about ** Business, SaaS, TS, JS, NodeJS, NextJS, NestJS, Webscrapping, Python, Automation, Blockchain**
+- 💬 Ask me about ** Business, SaaS, TS, JS, NodeJS, NextJS, NestJS, Webscrapping, Python, Automation, Blockchain **
 
 - 📫 How to reach me **viniciuspkfr@outlook.com**
 
