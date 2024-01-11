@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaumdarkz&label=Profile%20views&color=0e75b6&style=flat" alt="jaumdarkz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaumdarkz" alt="jaumdarkz" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaumdarkz" alt="jaumdarkz" /></a> </p> !-->
 
 - 🔭 I’m currently working on [Oceano](https://plataformaoceano.com.br/) & Leading on [Moonrise & Data Foundry]
 
