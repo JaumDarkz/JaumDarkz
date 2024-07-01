@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm João Vinícius</h1>
-<h3 align="center">An Exceptional Full Stack Business Developer.</h3>
+<h3 align="center">An Exceptional Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaumdarkz&label=Profile%20views&color=0e75b6&style=flat" alt="jaumdarkz" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaumdarkz" alt="jaumdarkz" /></a> </p> !-->
 
-- 🔭 I’m currently working & Leading on [Moonrise & Data Foundry]
-
-- 👯 I’m looking to collaborate on [Tech Education](https://www.youtube.com/@joaoviniciuscode)
+- 👯 I’m looking to collaborate on [Tech & Education](https://www.youtube.com/@joaoviniciuscode)
 
 - 💬 Ask me about ** Business, SaaS, TS, JS, NodeJS, NextJS, NestJS, Webscrapping, Python, Automation, Blockchain **
 
@@ -29,6 +27,5 @@
 <div  style="display: flex; align-items: center;">
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaumdarkz&show_icons=true&locale=en&layout=compact" alt="jaumdarkz" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaumdarkz" alt="jaumdarkz" />
 </p>
 </div>
