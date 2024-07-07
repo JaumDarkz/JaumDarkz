@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ** Business, SaaS, TS, JS, NodeJS, NextJS, NestJS, Webscrapping, Python, Automation, Blockchain **
 
-- 📫 How to reach me **viniciuspkfr@gmail.com**
+- 📫 How to reach me **sales@joaoviniciuscode.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1FFqzJ5dYmWAZpDa4xt1R5Qs5ubSD3kaRk8eQ9Rubn1c/edit?usp=sharing](https://docs.google.com/document/d/1FFqzJ5dYmWAZpDa4xt1R5Qs5ubSD3kaRk8eQ9Rubn1c/edit?usp=sharing)
 
