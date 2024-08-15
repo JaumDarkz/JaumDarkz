@@ -21,6 +21,5 @@
 </p>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaumDarkz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaumDarkz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=120&theme=tokyonight&hide=hide%3Dphp,tex,tsql,shell,c%23,roff"/>
 </p>
