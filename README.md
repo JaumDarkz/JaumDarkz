@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Vinícius</h1>
 <h3 align="center">An Exceptional Full Stack Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaumdarkz&label=Profile%20views&color=0e75b6&style=flat" alt="jaumdarkz" /> </p>
-
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaumdarkz" alt="jaumdarkz" /></a> </p> !-->
 
 - 👯 I’m looking to collaborate on [Tech & Education](https://www.instagram.com/joaovinicius.code)
