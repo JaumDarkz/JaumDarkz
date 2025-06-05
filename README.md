@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Software, Business, SaaS, Digital Marketing, Automations, Blockchain**
 
-- 📫 How to reach me [**sales@joaoviniciuscode.com**](https://www.instagram.com/joaovinicius.code)
+- 📫 How to reach me [**contact@joaoviniciuscode.com**](mailto:contact@joaoviniciuscode.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
